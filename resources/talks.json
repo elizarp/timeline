@@ -53,8 +53,6 @@
       "link": "https://digitalinnovation.one/",
       "name": "Digital Innovation One"
     },
-    "slides": "",
-    "photos": "",
     "video": "https://www.youtube.com/watch?v=sVPYCU7nC0E",
     "tags": ["carreira", "dotnet"],
     "location": {
@@ -78,7 +76,6 @@
     },
     "slides": "2018-08-09-SECOMP_MLSports/2018-08-09_MLSportsSECOMP.pdf",
     "photos": "2018-08-09-SECOMP_MLSports",
-    "video": "",
     "tags": ["machine learning", "esportes"],
     "location": {
       "latitude": -22.814580259258157,
@@ -99,9 +96,7 @@
       "link": "https://gdg-campinas.github.io/datafest",
       "name": "GDG Datafest 2019"
     },
-    "slides": "",
     "photos": "2019-12-10-GDG_Datafest_Painel_LGPD",
-    "video": "",
     "tags": ["lgpd"],
     "location": {
       "latitude": -22.814580259258157,
@@ -123,8 +118,6 @@
       "name": "UNAERP - Semana das Engenharias"
     },
     "slides": "https://pt.slideshare.net/elizarp3/a-importncia-da-segurana-da-informao-e-os-impactos-da-lgpd",
-    "photos": "",
-    "video": "",
     "tags": ["lgpd"],
     "location": {
       "latitude": -21.19976673692856, 

@@ -4,7 +4,7 @@ _Search with `⌘/ctrl + f`_
 
 This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
-**Eliézer Zarpelão** is a Speaker, Software Architect in Brazil.
+**Eliézer Zarpelão** is a Speaker, Software Architect, Professor in Brazil.
  
 Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)  
 Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)  
@@ -187,7 +187,7 @@ Location: <a href="https://www.google.com/maps/?q=-22.814580259258157,-47.064792
 <a href="https://www.unaerp.br/eventos/4-semana-da-engenharia-e-tecnologia" target="_blank">UNAERP - Semana das Engenharias</a>
 
 
-  
+<a href="https://pt.slideshare.net/elizarp3/a-importncia-da-segurana-da-informao-e-os-impactos-da-lgpd" target="_blank">slides</a>  
 
 
 Abstract:
