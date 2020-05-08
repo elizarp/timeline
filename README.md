@@ -17,14 +17,14 @@ Github:  [github.com/elizarp](https://github.com/elizarp)
 * **Blog Posts**: 2017/October - 2016/September 
 * **Conference Talks**: 2020/May - 2018/August 
 
-#### Presentations' number: 5
+#### Presentations' number: 6
 
 ## Table of Contents
 
 - [Projects (01)](#projects)
 - [Demonstrations (01)](#demonstrations)
 - [Blog Posts (03)](#blog-posts)
-- [Conference Talks (05)](#conference-talks)
+- [Conference Talks (06)](#conference-talks)
 
 ## Projects
 
@@ -180,6 +180,27 @@ _Tags: `lgpd`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-22.814580259258157,-47.06479226060882" target="_blank">Campinas - SP, Brazil</a>.
+
+### 2019-10-28 - Segurança da Informação e LGPD (pt-br)
+
+
+<a href="https://www.unaerp.br/eventos/4-semana-da-engenharia-e-tecnologia" target="_blank">UNAERP - Semana das Engenharias</a>
+
+
+  
+
+
+Abstract:
+
+> A importância da Segurança da Informação e os impactos da LGPD.
+> 
+> 
+
+
+_Tags: `lgpd`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-21.19976673692856,-47.77948109511075" target="_blank">Ribeirão Preto - SP, Brazil</a>.
 
 ### 2018-08-09 - Metodologias Ágeis (pt-br)
 

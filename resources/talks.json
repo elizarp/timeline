@@ -113,5 +113,28 @@
     "additionalLinks": [""],
     "language": "pt-br",
     "date": "2019-12-10"
+  },
+  {
+    "title": "Segurança da Informação e LGPD",
+    "abstract": "A importância da Segurança da Informação e os impactos da LGPD.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.unaerp.br/eventos/4-semana-da-engenharia-e-tecnologia",
+      "name": "UNAERP - Semana das Engenharias"
+    },
+    "slides": "https://pt.slideshare.net/elizarp3/a-importncia-da-segurana-da-informao-e-os-impactos-da-lgpd",
+    "photos": "",
+    "video": "",
+    "tags": ["lgpd"],
+    "location": {
+      "latitude": -21.19976673692856, 
+      "longitude": -47.77948109511075,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Ribeirão Preto"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2019-10-28"
   }
 ]
