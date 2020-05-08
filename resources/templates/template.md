@@ -4,7 +4,7 @@ _Search with `⌘/ctrl + f`_
 
 This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
-**Eliézer Zarpelão** is a Speaker, Software Architect in Brazil.
+**Eliézer Zarpelão** is a Speaker, Software Architect, Professor in Brazil.
  
 Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)  
 Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)  
