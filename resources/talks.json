@@ -90,5 +90,28 @@
     "additionalLinks": [""],
     "language": "pt-br",
     "date": "2018-08-09"
+  },
+  {
+    "title": "Painel LGPD",
+    "abstract": "Painel para discussão sobre a Lei Geral de Proteção de Dados no GDG Datafest 2019.",
+    "type": "talk",
+    "event": {
+      "link": "https://gdg-campinas.github.io/datafest",
+      "name": "GDG Datafest 2019"
+    },
+    "slides": "",
+    "photos": "2019-12-10-GDG_Datafest_Painel_LGPD",
+    "video": "",
+    "tags": ["lgpd"],
+    "location": {
+      "latitude": -22.814580259258157,
+      "longitude": -47.06479226060882,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Campinas"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2019-12-10"
   }
 ]

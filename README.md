@@ -17,14 +17,14 @@ Github:  [github.com/elizarp](https://github.com/elizarp)
 * **Blog Posts**: 2017/October - 2016/September 
 * **Conference Talks**: 2020/May - 2018/August 
 
-#### Presentations' number: 4
+#### Presentations' number: 5
 
 ## Table of Contents
 
 - [Projects (01)](#projects)
 - [Demonstrations (01)](#demonstrations)
 - [Blog Posts (03)](#blog-posts)
-- [Conference Talks (04)](#conference-talks)
+- [Conference Talks (05)](#conference-talks)
 
 ## Projects
 
@@ -159,6 +159,27 @@ _Tags: `lgpd`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-21.797121669257336,-48.174641126085916" target="_blank">Araraquara - SP, Brazil</a>.
+
+### 2019-12-10 - Painel LGPD (pt-br)
+
+
+<a href="https://gdg-campinas.github.io/datafest" target="_blank">GDG Datafest 2019</a>
+
+
+ <a href="https://github.com/elizarp/timeline/tree/master/2019-12-10-GDG_Datafest_Painel_LGPD" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Painel para discussão sobre a Lei Geral de Proteção de Dados no GDG Datafest 2019.
+> 
+> 
+
+
+_Tags: `lgpd`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-22.814580259258157,-47.06479226060882" target="_blank">Campinas - SP, Brazil</a>.
 
 ### 2018-08-09 - Metodologias Ágeis (pt-br)
 
