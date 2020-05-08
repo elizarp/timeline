@@ -28,7 +28,7 @@ Github:  [github.com/elizarp](https://github.com/elizarp)
 
 ## Projects
 
-### <a href="https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon" target="_blank">2020-01-20 - TISS Extension (pt-br)</a>
+### <a href="https://marketplace.visualstudio.com/items?itemName=elizarp.tiss-tool" target="_blank">2020-01-20 - TISS Extension (pt-br)</a>
 
 
 Abstract:
