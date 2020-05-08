@@ -7,10 +7,10 @@
       "link": "https://iaprendi.com/as-3-ferramentas-de-gestao-que-farao-diferenca-no-seu-negocio/",
       "name": "Mentoria iAprendi"
     },
-    "slides": "2018-08-09-iaprendi-metodologias-ageis/2018-08-09_WebinarMetodologiasAgeis_iAprendi.pdf",
-    "photos": "2018-08-09-iaprendi-metodologias-ageis",
+    "slides": "2018-08-09-iaprendi_metodologias_ageis/2018-08-09_WebinarMetodologiasAgeis_iAprendi.pdf",
+    "photos": "2018-08-09-iaprendi_metodologias_ageis",
     "video": "https://www.youtube.com/watch?v=EvX--S-fgVg&feature=youtu.be",
-    "tags": ["ageis"],
+    "tags": ["agile","empreendedorismo"],
     "location": {
       "latitude": -22.90219985563854, 
       "longitude": -47.04403635875326,
@@ -20,7 +20,7 @@
     },
     "additionalLinks": [""],
     "language": "pt-br",
-    "date": "2020-02-13"
+    "date": "2018-08-09"
   },
   {
     "title": "Introdução à LGPD",
@@ -67,5 +67,28 @@
     "additionalLinks": [""],
     "language": "pt-br",
     "date": "2020-05-07"
+  },
+  {
+    "title": "SECOMP 2018 - Machine Learning + Esporte",
+    "abstract": "Palestra na Semana da Computação - IC/Unicamp sobre Machine Learning e aplicações no esporte.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.secomp.com.br/",
+      "name": "SECOMP 2018"
+    },
+    "slides": "2018-08-09-SECOMP_MLSports/2018-08-09_MLSportsSECOMP.pdf",
+    "photos": "2018-08-09-SECOMP_MLSports",
+    "video": "",
+    "tags": ["machine learning", "esportes"],
+    "location": {
+      "latitude": -22.814580259258157,
+      "longitude": -47.06479226060882,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Campinas"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2018-08-09"
   }
 ]

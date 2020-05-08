@@ -1,16 +1,16 @@
 [
     {
-        "title": "Introdução à LGPD",
-        "abstract": "",
+        "title": "Implementando sua stack de testes unitários e integrados em um projeto .NET de Crowdfunding",
+        "abstract": "Aprenda a testar um projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC. Veja na teoria e na prática os principais conceitos de testes para aumentar a qualidade de entrega de seus projetos com testes unitários, integrados e TDD.",
         "type": "video",
         "additionalLinks": [
-            ""
+            "https://digitalinnovation.one/sign-up?ref=H395IYS4Z6"
         ],
-        "link": "https://www.youtube.com/watch?v=gOdNBjIVqYE",
+        "link": "https://web.digitalinnovation.one/live-coding",
         "tags": [
-            "lgpd"
+            "dotnet"
         ],
         "language": "pt-br",
-        "date": "2020-02-13"
+        "date": "2020-05-13"
     }
 ]

@@ -12,5 +12,34 @@
     "tags": ["agile"],
     "language": "pt-br",
     "date": "2017-10-31"
+  },
+  {
+    "title": "Tecnologia da Informação",
+    "abstract": "Reflexão sobre como utilizar a tecnologia da informação nas organizações.",
+    "type": "post",
+    "additionalLinks": [""],
+    "link": "https://www.linkedin.com/pulse/tecnologia-da-informa%C3%A7%C3%A3o-eli%C3%A9zer-zarpel%C3%A3o/",
+    "portal": {
+      "link": "https://www.linkedin.com/",
+      "name": "LinkedIn"
+    },
+    "tags": ["tecnologia"],
+    "language": "pt-br",
+    "date": "2016-09-27"
+  },
+  {
+    "title": "Primeiras impressões sobre a E-Ciber",
+    "abstract": "Análise sobre a Estratégia Nacional de Segurança da Informação, aprovada em 05 de fevereiro de 2020.",
+    "type": "post",
+    "additionalLinks": [""],
+    "link": "https://www.linkedin.com/pulse/primeiras-impress%C3%B5es-sobre-e-ciber-eli%C3%A9zer-zarpel%C3%A3o/",
+    "portal": {
+      "link": "https://www.linkedin.com/",
+      "name": "LinkedIn"
+    },
+    "tags": ["tecnologia"],
+    "language": "pt-br",
+    "date": "2016-09-27"
   }
+  
 ]
