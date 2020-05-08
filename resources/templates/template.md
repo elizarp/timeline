@@ -2,7 +2,7 @@
 
 _Search with `⌘/ctrl + f`_
 
-This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
+This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent).
 
 **Eliézer Zarpelão** is a Speaker, Software Architect, Professor in Brazil.
  
@@ -41,3 +41,5 @@ $$blog-content$$
 ## Conference Talks
 
 $$talk-content$$
+
+Fork: [github.com/erickwendel/timeline](https://github.com/erickwendel/timeline)
