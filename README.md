@@ -15,16 +15,16 @@ Github:  [github.com/elizarp](https://github.com/elizarp)
 * **Projects**: 2020/January - 2020/January 
 * **Demonstrations**: 2020/February - 2020/February 
 * **Blog Posts**: 2017/October - 2017/October 
-* **Conference Talks**: 2020/February - 2020/February 
+* **Conference Talks**: 2020/May - 2020/February 
 
-#### Presentations' number: 1
+#### Presentations' number: 3
 
 ## Table of Contents
 
 - [Projects (01)](#projects)
 - [Demonstrations (01)](#demonstrations)
 - [Blog Posts (01)](#blog-posts)
-- [Conference Talks (01)](#conference-talks)
+- [Conference Talks (03)](#conference-talks)
 
 ## Projects
 
@@ -81,6 +81,48 @@ _Tags: `agile`_
 
 ## Conference Talks
 
+### 2020-05-07 - DIO Expert Talks - Supere suas dificuldades com .NET (pt-br)
+
+
+<a href="https://digitalinnovation.one/" target="_blank">Digital Innovation One</a>
+
+
+  <a href="https://www.youtube.com/watch?v=sVPYCU7nC0E" target="_blank">video</a>
+
+
+Abstract:
+
+> Bate-papo sobre .Net e carreria na Digital Innovation One.
+> 
+> 
+
+
+_Tags: `carreira`, `dotnet`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-21.797121669257336,-48.174641126085916" target="_blank">Araraquara - SP, Brazil</a>.
+
+### 2020-02-13 - Metodologias Ágeis (pt-br)
+
+
+<a href="https://iaprendi.com/as-3-ferramentas-de-gestao-que-farao-diferenca-no-seu-negocio/" target="_blank">Mentoria iAprendi</a>
+
+
+<a href="2018-08-09-iaprendi-metodologias-ageis/2018-08-09_WebinarMetodologiasAgeis_iAprendi.pdf" target="_blank">slides</a> |  <a href="https://github.com/elizarp/timeline/tree/master/2018-08-09-iaprendi-metodologias-ageis" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=EvX--S-fgVg&feature=youtu.be" target="_blank">video</a>
+
+
+Abstract:
+
+> Explicando metologias ágeis para mulheres empreendedoras que atuam em diversos segmentos.
+> 
+> 
+
+
+_Tags: `ageis`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-22.90219985563854,-47.04403635875326" target="_blank">Campinas - SP, Brazil</a>.
+
 ### 2020-02-13 - Introdução à LGPD (pt-br)
 
 
@@ -92,7 +134,7 @@ _Tags: `agile`_
 
 Abstract:
 
-> 
+> Principais conceitos da Lei Geral de Proteção de Dados Pessoais e como o desenvolvimento de software será afetado com a lei.
 > 
 > 
 
@@ -100,5 +142,5 @@ Abstract:
 _Tags: `lgpd`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">Araraquara - SP, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-21.797121669257336,-48.174641126085916" target="_blank">Araraquara - SP, Brazil</a>.
 

@@ -1,7 +1,30 @@
 [
   {
+    "title": "Metodologias Ágeis",
+    "abstract": "Explicando metologias ágeis para mulheres empreendedoras que atuam em diversos segmentos.",
+    "type": "talk",
+    "event": {
+      "link": "https://iaprendi.com/as-3-ferramentas-de-gestao-que-farao-diferenca-no-seu-negocio/",
+      "name": "Mentoria iAprendi"
+    },
+    "slides": "2018-08-09-iaprendi-metodologias-ageis/2018-08-09_WebinarMetodologiasAgeis_iAprendi.pdf",
+    "photos": "2018-08-09-iaprendi-metodologias-ageis",
+    "video": "https://www.youtube.com/watch?v=EvX--S-fgVg&feature=youtu.be",
+    "tags": ["ageis"],
+    "location": {
+      "latitude": -22.90219985563854, 
+      "longitude": -47.04403635875326,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Campinas"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-02-13"
+  },
+  {
     "title": "Introdução à LGPD",
-    "abstract": "",
+    "abstract": "Principais conceitos da Lei Geral de Proteção de Dados Pessoais e como o desenvolvimento de software será afetado com a lei.",
     "type": "talk",
     "event": {
       "link": "https://digitalinnovation.one/",
@@ -12,8 +35,8 @@
     "video": "https://www.youtube.com/watch?v=gOdNBjIVqYE",
     "tags": ["lgpd"],
     "location": {
-      "latitude": -23.5966179,
-      "longitude": -46.6890048,
+      "latitude": -21.797121669257336,
+      "longitude": -48.174641126085916,
       "country": "Brazil",
       "uf": "SP",
       "city": "Araraquara"
@@ -21,5 +44,28 @@
     "additionalLinks": [""],
     "language": "pt-br",
     "date": "2020-02-13"
+  },
+  {
+    "title": "DIO Expert Talks - Supere suas dificuldades com .NET",
+    "abstract": "Bate-papo sobre .Net e carreria na Digital Innovation One.",
+    "type": "talk",
+    "event": {
+      "link": "https://digitalinnovation.one/",
+      "name": "Digital Innovation One"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://www.youtube.com/watch?v=sVPYCU7nC0E",
+    "tags": ["carreira", "dotnet"],
+    "location": {
+      "latitude": -21.797121669257336,
+      "longitude": -48.174641126085916,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Araraquara"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-05-07"
   }
 ]
