@@ -1,4 +1,4 @@
-# Activities by <a href="https://twitter.com/erickwendel_" target="_blank">Eliézer Zarpelão</a>
+# Activities by <a href="https://twitter.com/eliezerzarpelao" target="_blank">Eliézer Zarpelão</a>
 
 _Search with `⌘/ctrl + f`_
 
