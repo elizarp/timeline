@@ -1,0 +1,12 @@
+[
+    {
+        "title": "TISS Extension",
+        "abstract": "Extensão para auxiliar na manipulação de arquivos TISS.",
+        "type": "project",
+        "link": "https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon",
+        "tags": ["vscode", "vscode-extension", "xml"],
+        "additionalLinks": ["https://github.com/elizarp/tiss-tool"],
+        "language": "pt-br",
+        "date": "2020-01-20"
+    }
+]

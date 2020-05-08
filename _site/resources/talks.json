@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Introdução à LGPD",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://digitalinnovation.one/",
+      "name": "Digital Innovation One"
+    },
+    "slides": "https://pt.slideshare.net/elizarp3/introduo-lgpd-digital-innovation-one",
+    "photos": "2020-02-13-introducao_a_lgpd",
+    "video": "https://www.youtube.com/watch?v=gOdNBjIVqYE",
+    "tags": ["lgpd"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Araraquara"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-02-13"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Ágil é rápido?",
+    "abstract": "Muitas pessoas confundem agilidade com velocidade. Nesse artigo, explico a diferença dos conceitos na entrega dos produtos.",
+    "type": "post",
+    "additionalLinks": [""],
+    "link": "https://imasters.com.br/desenvolvimento/agil-e-rapido",
+    "portal": {
+      "link": "https://imasters.com.br",
+      "name": "IMasters"
+    },
+    "tags": ["agile"],
+    "language": "pt-br",
+    "date": "2017-10-31"
+  }
+]
