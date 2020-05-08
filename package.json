@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ErickWendel/timeline.git"
+    "url": "git+https://github.com/elizarp/timeline.git"
   },
   "author": "erickwendel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ErickWendel/timeline/issues"
+    "url": "https://github.com/elizarp/timeline/issues"
   },
-  "homepage": "https://github.com/ErickWendel/timeline#readme",
+  "homepage": "https://github.com/elizarp/timeline#readme",
   "dependencies": {
     "jimp": "^0.6.4",
     "json2md": "^1.6.1",

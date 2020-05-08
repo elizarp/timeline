@@ -12,7 +12,7 @@ const BLOG_CONTENT_TAG = "$$blog-content$$";
 const TALK_CONTENT_TAG = "$$talk-content$$";
 const VIDEO_CONTENT_TAG = "$$video-content$$";
 const PROJECT_CONTENT_TAG = "$$project-content$$";
-const REPOSITORY = "https://github.com/ErickWendel/timeline";
+const REPOSITORY = "https://github.com/elizarp/timeline";
 
 const TIMELINE_DEMO_TAG = "$$timeline_demo$$";
 const TIMELINE_TALK_TAG = "$$timeline_talk$$";
