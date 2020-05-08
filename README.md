@@ -2,7 +2,7 @@
 
 _Search with `⌘/ctrl + f`_
 
-This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
+This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent).
 
 **Eliézer Zarpelão** is a Speaker, Software Architect, Professor in Brazil.
  
@@ -244,3 +244,5 @@ _Tags: `machine learning`, `esportes`_
 
 Location: <a href="https://www.google.com/maps/?q=-22.814580259258157,-47.06479226060882" target="_blank">Campinas - SP, Brazil</a>.
 
+
+Fork: [github.com/erickwendel/timeline](https://github.com/erickwendel/timeline)
