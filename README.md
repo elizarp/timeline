@@ -56,6 +56,7 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://digitalinnovation.one/sign-up?ref=H395IYS4Z6" target="_blank">https://digitalinnovation.one/sign-up?ref=H395IYS4Z6</a>
+> - <a href="https://github.com/elizarp/dotnet-vaquinha-tests" target="_blank">https://github.com/elizarp/dotnet-vaquinha-tests</a>
 > 
 
 
@@ -131,9 +132,6 @@ Abstract:
 
 > Bate-papo sobre .Net e carreria na Digital Innovation One.
 > 
-> <b>Links</b>
-> 
-> - <a href="https://github.com/elizarp/dotnet-vaquinha-tests" target="_blank">https://github.com/elizarp/dotnet-vaquinha-tests</a>
 > 
 
 
