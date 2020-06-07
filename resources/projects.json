@@ -1,5 +1,18 @@
 [
     {
+        "title": "ZCAST",
+        "abstract": "Participação no podcast da ZarpSystem.",
+        "type": "project",
+        "link": "https://podcast.zarp.tech/",
+        "tags": ["podcast"],
+        "additionalLinks": ["https://open.spotify.com/show/7eROLmurP0cNpbJQ7acWJM",
+                            "https://podcasts.apple.com/ca/podcast/zcast/id1485885317",
+                            "https://www.deezer.com/br/show/702612",
+                            "https://www.youtube.com/playlist?list=PLNM2MMjV1H6Mba24Ypgb9tc_plAqSOaTk"],
+        "language": "pt-br",
+        "date": "2020-05-29"
+    },
+    {
         "title": "TISS Extension",
         "abstract": "Extensão para auxiliar na manipulação de arquivos TISS.",
         "type": "project",
